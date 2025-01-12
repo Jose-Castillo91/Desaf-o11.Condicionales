@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.conteiner{
+    display:flex;
+    flex-direction: row;
+}
+.imagen{
+    width: 30em;
+}
+
+.sticker-label-input{
+display: flex;
+flex-direction: column;
+}
+
+.parrafoderespuesta{
+    width: fit-content;
+    text-align: center;
+    margin: 0 auto;
+}
